@@ -54,7 +54,7 @@ episodes average.
 
 ![](./docs/img/media/Trainign_Score.png)
 
-Two computer trained one pair of agents and using the trained model from
+Two computer trained one pair of agents each one and using the best trained model from
 each computer, 100 episodes were executed on play mode in order to
 verify the model's performance.
 
