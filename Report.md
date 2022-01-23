@@ -47,7 +47,7 @@ training feedback.
 
 # Plot of Rewards
 
-The model takes around 20000 episodes to complete the training, but the
+The model takes around 30000 episodes to complete the training, but the
 implemented algorithms wait for 60000 more episodes and 8 exploratory
 retries to verify if is not more improves occurs on the last 100
 episodes average.
