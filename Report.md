@@ -52,13 +52,13 @@ implemented algorithms wait for 60000 more episodes and 8 exploratory
 retries to verify if is not more improves occurs on the last 100
 episodes average.
 
-![](./docs/img\media/Trainign_Score.png)
+![](./docs/img/media/Trainign_Score.png)
 
 Two computer trained one pair of agents and using the trained model from
 each computer, 100 episodes were executed on play mode in order to
 verify the model's performance.
 
-![](./docs/img\media/Playing_Score.png)
+![](./docs/img/media/Playing_Score.png)
 
 On the previous plot is possible view that agent have an average score
 of 2.2489 over 100 episodes
